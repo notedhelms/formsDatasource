@@ -1,167 +1,170 @@
 [
  {
-   "Administration": "Agriculture"
+   "name": "Administration"
  },
  {
-   "Administration": "Agriculture Outdoor"
+   "name": "Agriculture"
  },
  {
-   "Administration": "Animal Workers"
+   "name": "Agriculture Outdoor"
  },
  {
-   "Administration": "Aviation - All Other Countries"
+   "name": "Animal Workers"
  },
  {
-   "Administration": "Aviation - Australia"
+   "name": "Aviation - All Other Countries"
  },
  {
-   "Administration": "Aviation - Not Flying"
+   "name": "Aviation - Australia"
  },
  {
-   "Administration": "Aviation - South Africa"
+   "name": "Aviation - Not Flying"
  },
  {
-   "Administration": "Aviation - Start"
+   "name": "Aviation - South Africa"
  },
  {
-   "Administration": "Aviation Other Flying"
+   "name": "Aviation - Start"
  },
  {
-   "Administration": "Banking and Finance"
+   "name": "Aviation Other Flying"
  },
  {
-   "Administration": "Banking and Finance - Start"
+   "name": "Banking and Finance"
  },
  {
-   "Administration": "Catering"
+   "name": "Banking and Finance - Start"
  },
  {
-   "Administration": "Circus"
+   "name": "Catering"
  },
  {
-   "Administration": "Commercial Diving"
+   "name": "Circus"
  },
  {
-   "Administration": "Construction"
+   "name": "Commercial Diving"
  },
  {
-   "Administration": "Courier and Postal Workers"
+   "name": "Construction"
  },
  {
-   "Administration": "Docks"
+   "name": "Courier and Postal Workers"
  },
  {
-   "Administration": "Education"
+   "name": "Docks"
  },
  {
-   "Administration": "Emergency Services"
+   "name": "Education"
  },
  {
-   "Administration": "Fishing"
+   "name": "Emergency Services"
  },
  {
-   "Administration": "Forestry"
+   "name": "Fishing"
  },
  {
-   "Administration": "Forestry Outdoor"
+   "name": "Forestry"
  },
  {
-   "Administration": "Government  - Start"
+   "name": "Forestry Outdoor"
  },
  {
-   "Administration": "Government - Administrative Question"
+   "name": "Government  - Start"
  },
  {
-   "Administration": "Government - Set Req Travel Guidelines"
+   "name": "Government - Administrative Question"
  },
  {
-   "Administration": "Government Country"
+   "name": "Government - Set Req Travel Guidelines"
  },
  {
-   "Administration": "Healthcare"
+   "name": "Government Country"
  },
  {
-   "Administration": "Hospitality and Tourism"
+   "name": "Healthcare"
  },
  {
-   "Administration": "Hospitality and Tourism - Start"
+   "name": "Hospitality and Tourism"
  },
  {
-   "Administration": "Manufacturing"
+   "name": "Hospitality and Tourism - Start"
  },
  {
-   "Administration": "Media and Performing Arts (Orphaned)"
+   "name": "Manufacturing"
  },
  {
-   "Administration": "Media Driving (Orphaned)"
+   "name": "Media and Performing Arts (Orphaned)"
  },
  {
-   "Administration": "Media Outdoor (Orphaned)"
+   "name": "Media Driving (Orphaned)"
  },
  {
-   "Administration": "Merchant Marine"
+   "name": "Media Outdoor (Orphaned)"
  },
  {
-   "Administration": "Military"
+   "name": "Merchant Marine"
  },
  {
-   "Administration": "Mining - Start"
+   "name": "Military"
  },
  {
-   "Administration": "Mining Above Ground Driving"
+   "name": "Mining - Start"
  },
  {
-   "Administration": "Mining Above Ground No Driving"
+   "name": "Mining Above Ground Driving"
  },
  {
-   "Administration": "Mining Above Ground No Driving - SA"
+   "name": "Mining Above Ground No Driving"
  },
  {
-   "Administration": "Mining Underground"
+   "name": "Mining Above Ground No Driving - SA"
  },
  {
-   "Administration": "Miscellaneous"
+   "name": "Mining Underground"
  },
  {
-   "Administration": "Miscellaneous Outdoor Driving"
+   "name": "Miscellaneous"
  },
  {
-   "Administration": "Miscellaneous Outdoor No Driving"
+   "name": "Miscellaneous Outdoor Driving"
  },
  {
-   "Administration": "Oil and Gas Production"
+   "name": "Miscellaneous Outdoor No Driving"
  },
  {
-   "Administration": "Police"
+   "name": "Oil and Gas Production"
  },
  {
-   "Administration": "Prison Service"
+   "name": "Police"
  },
  {
-   "Administration": "Professional Sports"
+   "name": "Prison Service"
  },
  {
-   "Administration": "Retail"
+   "name": "Professional Sports"
  },
  {
-   "Administration": "Road and Rail Transport"
+   "name": "Retail"
  },
  {
-   "Administration": "Road and Rail Transport - Start and South Africa"
+   "name": "Road and Rail Transport"
  },
  {
-   "Administration": "Scientists"
+   "name": "Road and Rail Transport - Start and South Africa"
  },
  {
-   "Administration": "Security Services"
+   "name": "Scientists"
  },
  {
-   "Administration": "Security Services - South Africa"
+   "name": "Security Services"
  },
  {
-   "Administration": "Shipbuilding"
+   "name": "Security Services - South Africa"
  },
  {
-   "Administration": "Utilities"
+   "name": "Shipbuilding"
+ },
+ {
+   "name": "Utilities"
  }
 ]
