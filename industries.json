@@ -1,170 +1,226 @@
 [
   {
-    "name": "Administration"
+    "displayName": "Administration",
+    "value": "administration"
   },
   {
-    "name": "Agriculture"
+    "displayName": "Agriculture",
+    "value": "agriculture"
   },
   {
-    "name": "Agriculture Outdoor"
+    "displayName": "Agriculture Outdoor",
+    "value": "agricultureOutdoor"
   },
   {
-    "name": "Animal Workers"
+    "displayName": "Animal Workers",
+    "value": "animalWorkers"
   },
   {
-    "name": "Aviation - All Other Countries"
+    "displayName": "Aviation - All Other Countries",
+    "value": "aviationAllOtherCountries"
   },
   {
-    "name": "Aviation - Australia"
+    "displayName": "Aviation - Australia",
+    "value": "aviationAustralia"
   },
   {
-    "name": "Aviation - Not Flying"
+    "displayName": "Aviation - Not Flying",
+    "value": "aviationNotFlying"
   },
   {
-    "name": "Aviation - South Africa"
+    "displayName": "Aviation - South Africa",
+    "value": "aviationSouthAfrica"
   },
   {
-    "name": "Aviation - Start"
+    "displayName": "Aviation - Start",
+    "value": "aviationStart"
   },
   {
-    "name": "Aviation Other Flying"
+    "displayName": "Aviation Other Flying",
+    "value": "aviationOtherFlying"
   },
   {
-    "name": "Banking and Finance"
+    "displayName": "Banking and Finance",
+    "value": "bankingAndFinance"
   },
   {
-    "name": "Banking and Finance - Start"
+    "displayName": "Banking and Finance - Start",
+    "value": "bankingAndFinanceStart"
   },
   {
-    "name": "Catering"
+    "displayName": "Catering",
+    "value": "catering"
   },
   {
-    "name": "Circus"
+    "displayName": "Circus",
+    "value": "circus"
   },
   {
-    "name": "Commercial Diving"
+    "displayName": "Commercial Diving",
+    "value": "commercialDiving"
   },
   {
-    "name": "Construction"
+    "displayName": "Construction",
+    "value": "construction"
   },
   {
-    "name": "Courier and Postal Workers"
+    "displayName": "Courier and Postal Workers",
+    "value": "courierAndPostalWorkers"
   },
   {
-    "name": "Docks"
+    "displayName": "Docks",
+    "value": "docks"
   },
   {
-    "name": "Education"
+    "displayName": "Education",
+    "value": "education"
   },
   {
-    "name": "Emergency Services"
+    "displayName": "Emergency Services",
+    "value": "emergencyServices"
   },
   {
-    "name": "Fishing"
+    "displayName": "Fishing",
+    "value": "fishing"
   },
   {
-    "name": "Forestry"
+    "displayName": "Forestry",
+    "value": "forestry"
   },
   {
-    "name": "Forestry Outdoor"
+    "displayName": "Forestry Outdoor",
+    "value": "forestryOutdoor"
   },
   {
-    "name": "Government  - Start"
+    "displayName": "Government  - Start",
+    "value": "governmentStart"
   },
   {
-    "name": "Government - Administrative Question"
+    "displayName": "Government - Administrative Question",
+    "value": "governmentAdministrativeQuestion"
   },
   {
-    "name": "Government - Set Req Travel Guidelines"
+    "displayName": "Government - Set Req Travel Guidelines",
+    "value": "governmentSetReqTravelGuidelines"
   },
   {
-    "name": "Government Country"
+    "displayName": "Government Country",
+    "value": "governmentCountry"
   },
   {
-    "name": "Healthcare"
+    "displayName": "Healthcare",
+    "value": "healthcare"
   },
   {
-    "name": "Hospitality and Tourism"
+    "displayName": "Hospitality and Tourism",
+    "value": "hospitalityAndTourism"
   },
   {
-    "name": "Hospitality and Tourism - Start"
+    "displayName": "Hospitality and Tourism - Start",
+    "value": "hospitalityAndTourismStart"
   },
   {
-    "name": "Manufacturing"
+    "displayName": "Manufacturing",
+    "value": "manufacturing"
   },
   {
-    "name": "Media and Performing Arts (Orphaned)"
+    "displayName": "Media and Performing Arts (Orphaned)",
+    "value": "mediaAndPerformingArtsOrphaned"
   },
   {
-    "name": "Media Driving (Orphaned)"
+    "displayName": "Media Driving (Orphaned)",
+    "value": "mediaDrivingOrphaned"
   },
   {
-    "name": "Media Outdoor (Orphaned)"
+    "displayName": "Media Outdoor (Orphaned)",
+    "value": "mediaOutdoorOrphaned"
   },
   {
-    "name": "Merchant Marine"
+    "displayName": "Merchant Marine",
+    "value": "merchantMarine"
   },
   {
-    "name": "Military"
+    "displayName": "Military",
+    "value": "military"
   },
   {
-    "name": "Mining - Start"
+    "displayName": "Mining - Start",
+    "value": "miningStart"
   },
   {
-    "name": "Mining Above Ground Driving"
+    "displayName": "Mining Above Ground Driving",
+    "value": "miningAboveGroundDriving"
   },
   {
-    "name": "Mining Above Ground No Driving"
+    "displayName": "Mining Above Ground No Driving",
+    "value": "miningAboveGroundNoDriving"
   },
   {
-    "name": "Mining Above Ground No Driving - SA"
+    "displayName": "Mining Above Ground No Driving - SA",
+    "value": "miningAboveGroundNoDrivingSa"
   },
   {
-    "name": "Mining Underground"
+    "displayName": "Mining Underground",
+    "value": "miningUnderground"
   },
   {
-    "name": "Miscellaneous"
+    "displayName": "Miscellaneous",
+    "value": "miscellaneous"
   },
   {
-    "name": "Miscellaneous Outdoor Driving"
+    "displayName": "Miscellaneous Outdoor Driving",
+    "value": "miscellaneousOutdoorDriving"
   },
   {
-    "name": "Miscellaneous Outdoor No Driving"
+    "displayName": "Miscellaneous Outdoor No Driving",
+    "value": "miscellaneousOutdoorNoDriving"
   },
   {
-    "name": "Oil and Gas Production"
+    "displayName": "Oil and Gas Production",
+    "value": "oilAndGasProduction"
   },
   {
-    "name": "Police"
+    "displayName": "Police",
+    "value": "police"
   },
   {
-    "name": "Prison Service"
+    "displayName": "Prison Service",
+    "value": "prisonService"
   },
   {
-    "name": "Professional Sports"
+    "displayName": "Professional Sports",
+    "value": "professionalSports"
   },
   {
-    "name": "Retail"
+    "displayName": "Retail",
+    "value": "retail"
   },
   {
-    "name": "Road and Rail Transport"
+    "displayName": "Road and Rail Transport",
+    "value": "roadAndRailTransport"
   },
   {
-    "name": "Road and Rail Transport - Start and South Africa"
+    "displayName": "Road and Rail Transport - Start and South Africa",
+    "value": "roadAndRailTransportStartAndSouthAfrica"
   },
   {
-    "name": "Scientists"
+    "displayName": "Scientists",
+    "value": "scientists"
   },
   {
-    "name": "Security Services"
+    "displayName": "Security Services",
+    "value": "securityServices"
   },
   {
-    "name": "Security Services - South Africa"
+    "displayName": "Security Services - South Africa",
+    "value": "securityServicesSouthAfrica"
   },
   {
-    "name": "Shipbuilding"
+    "displayName": "Shipbuilding",
+    "value": "shipbuilding"
   },
   {
-    "name": "Utilities"
+    "displayName": "Utilities",
+    "value": "utilities"
   }
 ]
