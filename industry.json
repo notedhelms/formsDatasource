@@ -1,170 +1,170 @@
 [
- {
-   "name": "Administration"
- },
- {
-   "name": "Agriculture"
- },
- {
-   "name": "Agriculture Outdoor"
- },
- {
-   "name": "Animal Workers"
- },
- {
-   "name": "Aviation - All Other Countries"
- },
- {
-   "name": "Aviation - Australia"
- },
- {
-   "name": "Aviation - Not Flying"
- },
- {
-   "name": "Aviation - South Africa"
- },
- {
-   "name": "Aviation - Start"
- },
- {
-   "name": "Aviation Other Flying"
- },
- {
-   "name": "Banking and Finance"
- },
- {
-   "name": "Banking and Finance - Start"
- },
- {
-   "name": "Catering"
- },
- {
-   "name": "Circus"
- },
- {
-   "name": "Commercial Diving"
- },
- {
-   "name": "Construction"
- },
- {
-   "name": "Courier and Postal Workers"
- },
- {
-   "name": "Docks"
- },
- {
-   "name": "Education"
- },
- {
-   "name": "Emergency Services"
- },
- {
-   "name": "Fishing"
- },
- {
-   "name": "Forestry"
- },
- {
-   "name": "Forestry Outdoor"
- },
- {
-   "name": "Government  - Start"
- },
- {
-   "name": "Government - Administrative Question"
- },
- {
-   "name": "Government - Set Req Travel Guidelines"
- },
- {
-   "name": "Government Country"
- },
- {
-   "name": "Healthcare"
- },
- {
-   "name": "Hospitality and Tourism"
- },
- {
-   "name": "Hospitality and Tourism - Start"
- },
- {
-   "name": "Manufacturing"
- },
- {
-   "name": "Media and Performing Arts (Orphaned)"
- },
- {
-   "name": "Media Driving (Orphaned)"
- },
- {
-   "name": "Media Outdoor (Orphaned)"
- },
- {
-   "name": "Merchant Marine"
- },
- {
-   "name": "Military"
- },
- {
-   "name": "Mining - Start"
- },
- {
-   "name": "Mining Above Ground Driving"
- },
- {
-   "name": "Mining Above Ground No Driving"
- },
- {
-   "name": "Mining Above Ground No Driving - SA"
- },
- {
-   "name": "Mining Underground"
- },
- {
-   "name": "Miscellaneous"
- },
- {
-   "name": "Miscellaneous Outdoor Driving"
- },
- {
-   "name": "Miscellaneous Outdoor No Driving"
- },
- {
-   "name": "Oil and Gas Production"
- },
- {
-   "name": "Police"
- },
- {
-   "name": "Prison Service"
- },
- {
-   "name": "Professional Sports"
- },
- {
-   "name": "Retail"
- },
- {
-   "name": "Road and Rail Transport"
- },
- {
-   "name": "Road and Rail Transport - Start and South Africa"
- },
- {
-   "name": "Scientists"
- },
- {
-   "name": "Security Services"
- },
- {
-   "name": "Security Services - South Africa"
- },
- {
-   "name": "Shipbuilding"
- },
- {
-   "name": "Utilities"
- }
+  {
+    "name": "Administration"
+  },
+  {
+    "name": "Agriculture"
+  },
+  {
+    "name": "Agriculture Outdoor"
+  },
+  {
+    "name": "Animal Workers"
+  },
+  {
+    "name": "Aviation - All Other Countries"
+  },
+  {
+    "name": "Aviation - Australia"
+  },
+  {
+    "name": "Aviation - Not Flying"
+  },
+  {
+    "name": "Aviation - South Africa"
+  },
+  {
+    "name": "Aviation - Start"
+  },
+  {
+    "name": "Aviation Other Flying"
+  },
+  {
+    "name": "Banking and Finance"
+  },
+  {
+    "name": "Banking and Finance - Start"
+  },
+  {
+    "name": "Catering"
+  },
+  {
+    "name": "Circus"
+  },
+  {
+    "name": "Commercial Diving"
+  },
+  {
+    "name": "Construction"
+  },
+  {
+    "name": "Courier and Postal Workers"
+  },
+  {
+    "name": "Docks"
+  },
+  {
+    "name": "Education"
+  },
+  {
+    "name": "Emergency Services"
+  },
+  {
+    "name": "Fishing"
+  },
+  {
+    "name": "Forestry"
+  },
+  {
+    "name": "Forestry Outdoor"
+  },
+  {
+    "name": "Government  - Start"
+  },
+  {
+    "name": "Government - Administrative Question"
+  },
+  {
+    "name": "Government - Set Req Travel Guidelines"
+  },
+  {
+    "name": "Government Country"
+  },
+  {
+    "name": "Healthcare"
+  },
+  {
+    "name": "Hospitality and Tourism"
+  },
+  {
+    "name": "Hospitality and Tourism - Start"
+  },
+  {
+    "name": "Manufacturing"
+  },
+  {
+    "name": "Media and Performing Arts (Orphaned)"
+  },
+  {
+    "name": "Media Driving (Orphaned)"
+  },
+  {
+    "name": "Media Outdoor (Orphaned)"
+  },
+  {
+    "name": "Merchant Marine"
+  },
+  {
+    "name": "Military"
+  },
+  {
+    "name": "Mining - Start"
+  },
+  {
+    "name": "Mining Above Ground Driving"
+  },
+  {
+    "name": "Mining Above Ground No Driving"
+  },
+  {
+    "name": "Mining Above Ground No Driving - SA"
+  },
+  {
+    "name": "Mining Underground"
+  },
+  {
+    "name": "Miscellaneous"
+  },
+  {
+    "name": "Miscellaneous Outdoor Driving"
+  },
+  {
+    "name": "Miscellaneous Outdoor No Driving"
+  },
+  {
+    "name": "Oil and Gas Production"
+  },
+  {
+    "name": "Police"
+  },
+  {
+    "name": "Prison Service"
+  },
+  {
+    "name": "Professional Sports"
+  },
+  {
+    "name": "Retail"
+  },
+  {
+    "name": "Road and Rail Transport"
+  },
+  {
+    "name": "Road and Rail Transport - Start and South Africa"
+  },
+  {
+    "name": "Scientists"
+  },
+  {
+    "name": "Security Services"
+  },
+  {
+    "name": "Security Services - South Africa"
+  },
+  {
+    "name": "Shipbuilding"
+  },
+  {
+    "name": "Utilities"
+  }
 ]
